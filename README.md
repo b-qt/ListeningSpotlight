@@ -11,7 +11,8 @@ I am a data scientist and I like listening to music. I want to monitor my usage 
   2.2. the genres i mostly listen to  
 3. how much time i spend on average on the application
 
-This is a classic, high-value business problem.
+&nbsp;&nbsp;&nbsp;&nbsp;_This is a classic, high-value business problem._
+
 ---
 ### Why This Project:
 1. Real-World Problem: It answers questions every subscription business asks: "Who are my users? Are they happy? Are they going to leave? How do i retain these users?"
