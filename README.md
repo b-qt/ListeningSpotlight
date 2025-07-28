@@ -6,9 +6,9 @@ _I'm a master of SQL, and I can communicate my results._
 ## Scenario : 
 I am a data scientist and I like listening to music. I want to monitor my usage in order to 
 1. identify artists I stream most,
-2. my listening patterns, as in
-  2.1. the times i listen to music
-  2.2. the genres i mostly listen to
+2. my listening patterns, as in  
+  2.1. the times i listen to music  
+  2.2. the genres i mostly listen to  
 3. how much time i spend on average on the application
 
 This is a classic, high-value business problem.
